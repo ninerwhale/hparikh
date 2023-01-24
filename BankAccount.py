@@ -1,0 +1,1 @@
+print ("wally has a balance of $70.16")
